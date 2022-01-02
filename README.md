@@ -7,7 +7,7 @@
  public static void main(String args[])
  {
   System.out.println("
-  1. 코딩 인터뷰 완전 분석 정복
+  1. 코딩 인터뷰 완전 분석 완독
   2. 영어 스피킹 점수 획득 (중상급 이상)
   3. 헝가리어 스피킹 중급 이상으로 실력 향상
   4. SQL 문제 풀이 200제 이상
