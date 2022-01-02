@@ -2,7 +2,7 @@
 ## this is for 2022 goals
 
 ### make a hope list.
-#### <hope>
+#### * hope
  ''' java
   1. 코딩 인터뷰 완전 분석 정복
   2. 영어 스피킹 점수 획득 (중상급 이상)
