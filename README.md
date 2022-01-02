@@ -4,6 +4,9 @@
 ### make a hope list.
 #### * hope
  ''' java
+ public static void main(String args[])
+ {
+  System.out.println("
   1. 코딩 인터뷰 완전 분석 정복
   2. 영어 스피킹 점수 획득 (중상급 이상)
   3. 헝가리어 스피킹 중급 이상으로 실력 향상
@@ -37,4 +40,7 @@
   31. 기타 실력 군인때로 복구하기
   32. 스스로 하이킹 계획해서 혼자 여행해보기
   33. ...
+  34. ")
+  }
+ }
 '''
